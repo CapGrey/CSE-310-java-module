@@ -46,7 +46,7 @@ public class Syntax {
         Math.abs(-33); // returns absolute value
         Math.random(); // returns a random value between [0.0 and 1.0)
         
-        // for mor control over the random number: ex 0-100
+        // for more control over the random number: ex 0-100
         int randomNum = (int) (Math.random() * 101);
 
                             System.out.println(a + b + c + randomNum + constant + z + firstName);
